@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Grace McLeod"
+  avatar           : "Headshot.jpg"
+  bio              : "Master's Candidate studying post-fire recovery in the Florida Everglades"
   location         : "Location"
-  employer         :
+  employer         : "Malone Disturbance Ecology Lab"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/M-Mcleod"
   uri              :
   bitbucket        :
   codepen          :
