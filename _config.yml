@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Grace McLeod"
-  avatar           : "Headshot.jpg"
+  avatar           : "Headshot.JPG"
   bio              : "Master's Candidate studying post-fire recovery in the Florida Everglades"
-  location         : "Location"
+  location         :
   employer         : "https://malonelab.squarespace.com/"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -99,17 +99,17 @@ author:
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/naturaly.grace/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/grace-mcleod-02302473/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "MGraceMcLeod"
   vine             :
   weibo            :
   xing             :
