@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](https://drive.google.com/file/d/1v5-556ZtPEigjh2cO-aGU_MUJ9pXhDlv/view?usp=sharing)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
