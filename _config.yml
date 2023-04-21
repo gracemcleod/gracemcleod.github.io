@@ -84,10 +84,11 @@ author:
   avatar           : "Headshot.JPG"
   bio              : "Master's Candidate studying post-fire recovery in the Florida Everglades"
   location         :
-  employer         : "https://malonelab.squarespace.com/"
+  employer         : "Malone Disturbance Ecology Lab"
+  df: "testing"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "email"
+  email            : 
   researchgate     : "https://www.researchgate.net/profile/M-Mcleod"
   uri              :
   bitbucket        :
