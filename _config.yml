@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Grace McLeod"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Grace McLeod"
 description              : &description "personal website"
